@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+
+}
+
+li {
+	display: inline;
+
+
+}
+
+.inline {
+	margin: 25px;
+	border: 1px solid red;
+
+}
+
+a .nth-child:nth-child(2) {
+	border: 1px solid black;
+	text-decoration: underline;
+
+}
