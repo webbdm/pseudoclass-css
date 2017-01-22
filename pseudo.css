@@ -15,8 +15,8 @@ li {
 
 }
 
-a .nth-child:nth-child(2) {
+.n-child section:nth-child(even) {
 	border: 1px solid black;
-	text-decoration: underline;
+	
 
 }
