@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+
+}
+
+li {
+	display: inline;
+
+
+}
+
+.inline {
+	margin: 25px;
+	border: 1px solid red;
+
+}
+
+.n-child section:nth-child(even) {
+	border: 1px solid black;
+	
+
+}
